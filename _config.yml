@@ -1,12 +1,11 @@
 # Site settings
-title: "Joon: Roon for Jekyll"
-logo: logo.png # image from https://www.flickr.com/photos/lwr/5496279831/in/set-72157594159055823
-email: tkteal@datacarpentry.org
-description: > # this means to ignore newlines until "baseurl:"
-tkt 
-baseurl: "/" # the subpath of your site, e.g. /blog/
+title: "Data Dreamin'"
+logo: data-world.jpg
+email: your-email@domain.com
+description: Working towards a world where data is about people, and the great things we can do, dream and discover with data.  
+url: "http://tracykteal.github.io" # the base hostname & protocol for your site
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
 twitter_username: tracykteal
 github_username:  tracykteal
-
 # Build settings
 markdown: kramdown
