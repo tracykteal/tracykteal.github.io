@@ -4,7 +4,7 @@ logo: data-world.jpg
 email: your-email@domain.com
 description: Working towards a world where data is about people, and the great things we can do, dream and discover with data.  
 url: "http://tracykteal.github.io" # the base hostname & protocol for your site
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 twitter_username: tracykteal
 github_username:  tracykteal
 # Build settings
